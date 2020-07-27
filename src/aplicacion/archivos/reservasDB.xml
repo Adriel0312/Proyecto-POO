@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<reservas>
+    <reservasDB>
+        <IdeReserva>RES-001</IdeReserva>
+        <FechaDeReserva>24/09/2017</FechaDeReserva>
+        <HoraDeLaReserva>Martes,10:30,2:00</HoraDeLaReserva>
+        <Asunto>Estudiar</Asunto>
+        <CarnetOrganizador>2016138400</CarnetOrganizador>
+        <CodigoCalificacion>SAL-005-RES-001-2016138400</CodigoCalificacion>
+        <CodigoSala>SAL-005</CodigoSala>
+        <Estado>Activa</Estado>
+        <Participantes>[Angelo Castro, angelocas13_8@hotmail.com]-</Participantes>
+    </reservasDB>
+    <reservasDB>
+        <IdeReserva>RES-002</IdeReserva>
+        <FechaDeReserva>24/09/2017</FechaDeReserva>
+        <HoraDeLaReserva>Martes,10:30,2:00</HoraDeLaReserva>
+        <Asunto>Estudiar</Asunto>
+        <CarnetOrganizador>2016138400</CarnetOrganizador>
+        <CodigoCalificacion>SAL-001-RES-002-2016138400</CodigoCalificacion>
+        <CodigoSala>SAL-001</CodigoSala>
+        <Estado>Activa</Estado>
+        <Participantes>[Adriel Casco, adriel123@gmail.com]-</Participantes>
+    </reservasDB>
+    <reservasDB>
+        <IdeReserva>RES-003</IdeReserva>
+        <FechaDeReserva>24/09/2017</FechaDeReserva>
+        <HoraDeLaReserva>Martes,10:30,2:00</HoraDeLaReserva>
+        <Asunto>Estudiar</Asunto>
+        <CarnetOrganizador>2016138400</CarnetOrganizador>
+        <CodigoCalificacion>SAL-005-RES-003-2016138400</CodigoCalificacion>
+        <CodigoSala>SAL-005</CodigoSala>
+        <Estado>Activa</Estado>
+        <Participantes>[Angelo Castro, angelocas13_8@hotmail.com]-[Adriel Casco, adriel123@gmail.com]-</Participantes>
+    </reservasDB>
+</reservas>
