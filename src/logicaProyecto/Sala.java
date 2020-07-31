@@ -28,13 +28,9 @@ public class Sala {
     private  ArrayList<ArrayList<String>> horario = new ArrayList<ArrayList<String>>();
     private int calificacion = 100;
     
-    
-    public Sala (String pUbicacion, int pCapacidad) throws IOException, JDOMException{
-       this.ubicacion=ubicacion;
-       this.capacidad=capacidad;
-       setCodigo();
-       setUbicacion(pUbicacion);
-       setCapacidad(pCapacidad);
+
+
+    public Sala (String nombre, String capcidad, String campos, String imagen, String correo, String telefono1, String telefono2, String distrito, String provincia, String canton, String barrio, String contrasenna) throws IOException, JDOMException{
     }
 
 
